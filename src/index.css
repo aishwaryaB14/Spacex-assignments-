@@ -1,0 +1,25 @@
+.App {
+    padding: 1rem;
+    background: #f9e8e8;
+}
+.main-container {
+    padding: 1rem;
+}
+.filter-container {
+    background: #fff;
+    padding: 1rem;
+}
+.btn {
+    margin: 0;
+    box-shadow: none;
+    transition: none;
+}
+.card-text {
+    margin-bottom: 0.5rem;
+}
+.view {
+    padding: 0.5rem;
+}
+.card {
+    margin: 0rem 0rem 1rem 0rem;
+}
